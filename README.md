@@ -18,3 +18,16 @@ Il s'agit d'une application web de **Machine Learning** permettant de prédire l
    ```bash
    git clone https://github.com/emeen1/Heart-Disease-Predictor.git
    
+## Execution 
+1. Installez les dépendances :
+   ```bash
+   pip install streamlit pandas numpy joblib scikit-learn
+2. Lancez l'application :
+   ```bash
+   streamlit run app.py
+## Structure du projet
+app.py : Code de l'application Streamlit.
+heart_model.pkl : Modèle de prédiction entraîné.
+scaler.pkl : Transformateur pour la normalisation des données.
+columns.pkl : Structure des données d'entrée.
+Heart_disease/ : Contient le dataset original.

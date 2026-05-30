@@ -26,8 +26,8 @@ Il s'agit d'une application web de **Machine Learning** permettant de prédire l
    ```bash
    streamlit run app.py
 ## Structure du projet
-app.py : Code de l'application Streamlit.
-heart_model.pkl : Modèle de prédiction entraîné.
-scaler.pkl : Transformateur pour la normalisation des données.
-columns.pkl : Structure des données d'entrée.
-Heart_disease/ : Contient le dataset original.
+- **app.py** : Code de l'application Streamlit.
+- **heart_model.pkl** : Modèle de prédiction entraîné.
+- **scaler.pkl** : Transformateur pour la normalisation des données.
+- **columns.pkl** : Structure des données d'entrée.
+- **Heart_disease/** : Contient le dataset original.

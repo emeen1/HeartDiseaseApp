@@ -31,3 +31,5 @@ Il s'agit d'une application web de **Machine Learning** permettant de prédire l
 - **scaler.pkl** : Transformateur pour la normalisation des données.
 - **columns.pkl** : Structure des données d'entrée.
 - **Heart_disease/** : Contient le dataset original.
+## Auteur : 
+@Imane NOUAM 

@@ -18,7 +18,7 @@ Il s'agit d'une application web de **Machine Learning** permettant de prédire l
    ```bash
    git clone https://github.com/emeen1/Heart-Disease-Predictor.git
    
-## Execution 
+## Exécution 
 1. Installez les dépendances :
    ```bash
    pip install streamlit pandas numpy joblib scikit-learn
